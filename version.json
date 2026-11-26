@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.1.0.apk",
+  "sha256": "67c89d4a1ff05e9625e43d3ed58cf5b0f58b9ef9146d1339711ee178c9d51fa8",
+  "notes": "앱 안 업데이트 기능 추가, 오류 안내 문구 정리"
+}
