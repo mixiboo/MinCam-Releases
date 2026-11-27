@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.8.0",
-  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.0.apk",
-  "sha256": "b0204df0c4b55d82b412b6724558a4282145d6bf6947f2f8241c4f4c7cd601f1",
-  "notes": "위쪽 탭 디자인(폰·패드), 패드는 카메라 외 탭을 PIN으로 잠금 해제, PIN 미리보기 고화질, AI 감지 모델 교체(EfficientDet-Lite2)·두 번 연속 확인·얼굴 기울기 보정으로 정확도 향상"
+  "versionCode": 11,
+  "versionName": "1.8.1",
+  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.1.apk",
+  "sha256": "2f7edb8b3f4c65cd25a9bc50bbdf2e4318a95a27af5b443691f8b81e8e1b7f52",
+  "notes": "패드 미리보기(PIN 1분 보기·패드 보기 탭)를 카메라 프레임 그대로 GPU로 그려서 30/60fps로 부드럽게"
 }
