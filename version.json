@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8.1",
-  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.1.apk",
-  "sha256": "2f7edb8b3f4c65cd25a9bc50bbdf2e4318a95a27af5b443691f8b81e8e1b7f52",
-  "notes": "패드 미리보기(PIN 1분 보기·패드 보기 탭)를 카메라 프레임 그대로 GPU로 그려서 30/60fps로 부드럽게"
+  "versionCode": 12,
+  "versionName": "1.8.2",
+  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.2.apk",
+  "sha256": "62228f18ae49fb0266413c4e886ed04692395506e054e298753757f3d99257ef",
+  "notes": "얼굴 인식 모델을 FaceNet-512로 교체(테스트 정확도 74%→98.6%), 사람이 보일 때 원본 해상도로 얼굴 비교, 이름 붙인 사람은 저장된 사진으로 자동 재학습"
 }
