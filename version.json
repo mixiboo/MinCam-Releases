@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.0",
-  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.7.0.apk",
-  "sha256": "c5d2e809e03e4ef076a306f4acc20a2e2d0cc905122870c8704571bbcf99f229",
-  "notes": "· 폰에서 패드에 저장된 녹화 영상을 받아 볼 수 있어요 (원하는 부분만, 서버 용량 안 씀)\n· 보안 강화: 사이렌·메시지·설정 같은 명령은 카메라 주인만 보낼 수 있어요\n· 폰과 패드를 둘 다 업데이트해야 명령이 전달돼요"
+  "versionCode": 10,
+  "versionName": "1.8.0",
+  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.0.apk",
+  "sha256": "b0204df0c4b55d82b412b6724558a4282145d6bf6947f2f8241c4f4c7cd601f1",
+  "notes": "위쪽 탭 디자인(폰·패드), 패드는 카메라 외 탭을 PIN으로 잠금 해제, PIN 미리보기 고화질, AI 감지 모델 교체(EfficientDet-Lite2)·두 번 연속 확인·얼굴 기울기 보정으로 정확도 향상"
 }
