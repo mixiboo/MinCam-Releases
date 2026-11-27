@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
-  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.5.0.apk",
-  "sha256": "c550fefbf249658d5d0c2be9269c16752dfe649eea70625bcd7822187bae148f",
-  "notes": "· 사람 구분: 처음 보는 사람은 '사람 1, 사람 2'처럼 구분해서 다음에도 같은 번호로 보여줘요\n· '이 사람이 누구인지 아시나요?' 알림: 알림에서 바로 이름을 적거나 '모르겠어요'\n· 이미 있는 이름을 붙이면 같은 사람으로 합쳐요\n· 감시 중에는 패드 미리보기를 숨기고, PIN을 넣으면 1분 동안만 보여요"
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.6.0.apk",
+  "sha256": "56d3945d572ca0fbda4ec3e23e925f122f991d67468af479435135229dd6bfd1",
+  "notes": "· 카메라 패드에도 '뷰어' 탭이 생겼어요 (카메라→뷰어는 PIN, 뷰어→카메라는 바로)\n· 패드 뷰어는 폰과 같은 계정이라 이벤트·로그·이름이 모두 같아요\n· 이 패드 카메라 화면을 바로 보고, 패드에 저장된 녹화 영상도 볼 수 있어요\n· 감시를 켠 동안 끊김 없이 계속 녹화해요"
 }
