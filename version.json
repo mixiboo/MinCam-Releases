@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.8.3",
-  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.3.apk",
-  "sha256": "9f2177e636c7d94b408061e8e0398342a00aa512cf1ecbddc2917fb3643f74a9",
-  "notes": "전면 카메라에서 미리보기·실시간 화면이 거울처럼 뒤집혀 트래킹 네모가 반대쪽에 보이던 문제 수정"
+  "versionCode": 14,
+  "versionName": "1.8.4",
+  "apk": "https://raw.githubusercontent.com/mixiboo/MinCam-Releases/main/MinCam-1.8.4.apk",
+  "sha256": "38b98b14b6ad6843f196117285edfa9cec0eda4e2affcdfbe9d8a69d27103688",
+  "notes": "카메라 화면 비율 4:3 센서 전체(기본)·16:9 선택, 카메라 켜기/끄기 버튼을 카드·패드 화면에 추가, 새 버전이 있으면 맨 위에 알림"
 }
